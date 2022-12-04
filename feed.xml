@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>竟何的视频站</title>
-    <link href="https://video.lylelove.top/feed.xml" rel="self" />
-    <link href="https://video.lylelove.top" />
+    <link href="https://videos.lylelove.top/feed.xml" rel="self" />
+    <link href="https://videos.lylelove.top" />
     <updated>2022-12-04T19:46:42+08:00</updated>
     <author>
         <name>竟何</name>
     </author>
-    <id>https://video.lylelove.top</id>
+    <id>https://videos.lylelove.top</id>
 
     <entry>
         <title>莉可丽丝</title>
         <author>
             <name>竟何</name>
         </author>
-        <link href="https://video.lylelove.top/li-ke-li-si.html"/>
-        <id>https://video.lylelove.top/li-ke-li-si.html</id>
-        <media:content url="https://video.lylelove.top/media/posts/1/v2-032ca0b0d15411f911d419e91a7d2876_720w-2.jpg" medium="image" />
+        <link href="https://videos.lylelove.top/li-ke-li-si.html"/>
+        <id>https://videos.lylelove.top/li-ke-li-si.html</id>
+        <media:content url="https://videos.lylelove.top/media/posts/1/v2-032ca0b0d15411f911d419e91a7d2876_720w-2.jpg" medium="image" />
             <category term="番剧"/>
 
         <updated>2022-12-04T19:46:42+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://video.lylelove.top/media/posts/1/v2-032ca0b0d15411f911d419e91a7d2876_720w-2.jpg" alt="" />
+                        <img src="https://videos.lylelove.top/media/posts/1/v2-032ca0b0d15411f911d419e91a7d2876_720w-2.jpg" alt="" />
                     ep.1
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://video.lylelove.top/media/posts/1/v2-032ca0b0d15411f911d419e91a7d2876_720w-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://videos.lylelove.top/media/posts/1/v2-032ca0b0d15411f911d419e91a7d2876_720w-2.jpg" class="type:primaryImage" alt="" /></p>
                 <ul>
-<li><a href="https://video.lylelove.top/li-ke-li-si_1.html"></a><a href="https://video.lylelove.top/li-ke-li-si_1.html">ep.1</a></li>
+<li><a href="https://videos.lylelove.top/li-ke-li-si_1.html"></a><a href="https://videos.lylelove.top/li-ke-li-si_1.html">ep.1</a></li>
 </ul>
             ]]>
         </content>

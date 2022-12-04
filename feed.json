@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "竟何的视频站",
     "description": "",
-    "home_page_url": "https://video.lylelove.top",
-    "feed_url": "https://video.lylelove.top/feed.json",
+    "home_page_url": "https://videos.lylelove.top",
+    "feed_url": "https://videos.lylelove.top/feed.json",
     "user_comment": "",
-    "icon": "https://video.lylelove.top/media/website/ico1.png",
+    "icon": "https://videos.lylelove.top/media/website/ico1.png",
     "author": {
         "name": "竟何"
     },
     "items": [
         {
-            "id": "https://video.lylelove.top/li-ke-li-si.html",
-            "url": "https://video.lylelove.top/li-ke-li-si.html",
+            "id": "https://videos.lylelove.top/li-ke-li-si.html",
+            "url": "https://videos.lylelove.top/li-ke-li-si.html",
             "title": "莉可丽丝",
             "summary": "ep.1",
-            "content_html": "<ul>\n<li><a href=\"https://video.lylelove.top/li-ke-li-si_1.html\"></a><a href=\"https://video.lylelove.top/li-ke-li-si_1.html\">ep.1</a></li>\n</ul>",
-            "image": "https://video.lylelove.top/media/posts/1/v2-032ca0b0d15411f911d419e91a7d2876_720w-2.jpg",
+            "content_html": "<ul>\n<li><a href=\"https://videos.lylelove.top/li-ke-li-si_1.html\"></a><a href=\"https://videos.lylelove.top/li-ke-li-si_1.html\">ep.1</a></li>\n</ul>",
+            "image": "https://videos.lylelove.top/media/posts/1/v2-032ca0b0d15411f911d419e91a7d2876_720w-2.jpg",
             "author": {
                 "name": "竟何"
             },
