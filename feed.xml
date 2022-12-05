@@ -3,7 +3,7 @@
     <title>竟何的视频站</title>
     <link href="https://videos.lylelove.top/feed.xml" rel="self" />
     <link href="https://videos.lylelove.top" />
-    <updated>2022-12-04T23:09:01+08:00</updated>
+    <updated>2022-12-05T13:04:00+08:00</updated>
     <author>
         <name>竟何</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="电影"/>
             <category term="欧美电影"/>
 
-        <updated>2022-12-04T23:09:01+08:00</updated>
+        <updated>2022-12-05T13:04:00+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://videos.lylelove.top/media/posts/11/p1663639252.jpg" alt="" />
@@ -30,8 +30,17 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://videos.lylelove.top/media/posts/11/p1663639252.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__video"><video loading="lazy" width="600" height="300" controls="controls" data-mce-fragment="1">
-<source src="https://ipfsgw02.stariverpan.com:9096/ipfs/bafybeig3jurx3g5bnarytppe2zxron6ot2eimmyoxtnw2xei5xftrrjwxy?v=1&amp;u=605501151982391296&amp;t=1670252776&amp;s=2836341ad6387102fc5c249f6be765c3" /></video></figure>
+                <div id="mse"></div>
+<p>
+<script>
+      let player = new Player({
+        id: "mse",
+        url: "https://ipfsgw02.stariverpan.com:9096/ipfs/bafybeig3jurx3g5bnarytppe2zxron6ot2eimmyoxtnw2xei5xftrrjwxy?v=1&u=605501151982391296&t=1670252776&s=2836341ad6387102fc5c249f6be765c3",
+        fluid: true,
+        playbackRate: [0.5, 0.75, 1, 1.5, 2],
+      });
+    </script>
+</p>
 <p class="msg msg--info dropcap">这是一部纪实性电影，逼真地反映了希特勒人生的最后12天，第三帝国最后的日子。<br>　　苏联红军已经攻入柏林，希特勒（布鲁诺·甘茨 Bruno Ganz 饰）和情妇爱娃（茱莉安·柯勒 Juliane Köhler 饰）也躲到了掩体下。爱娃知道自己是来陪希特勒一起共赴黄泉的，但她并 不后悔。即使在她向希特勒为妹夫求情遭拒绝后，她也和希特勒一起举办了最后一次的婚礼。<br>　　希特勒的忠实追随者戈倍尔（乌尔里希·马特斯 Ulrich Matthes 饰）决心全家一起陪着元首殉葬。他共有7个孩子，他和妻子坚决不让自己的孩子们在没有帝国的天空生长，在希特勒和爱娃自杀后也一同自杀。令人不胜感慨。<br>　　历史的真实通过镜头一幕幕重现。</p>
 <p class="msg msg--success">豆瓣评分：8.9</p>
             ]]>
